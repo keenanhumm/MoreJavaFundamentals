@@ -1,6 +1,6 @@
 package com.kaytec.threads;
 
-import static com.kaytec.threads.ThreadColor.ANSI_BLUE;
+import static com.kaytec.utils.ThreadColor.ANSI_BLUE;
 
 public class AnotherThread extends Thread {
     @Override

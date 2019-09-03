@@ -1,6 +1,6 @@
 package com.kaytec.threads;
 
-import static com.kaytec.threads.ThreadColor.*;
+import static com.kaytec.utils.ThreadColor.*;
 
 public class Main {
     public static void main(String[] args) {
